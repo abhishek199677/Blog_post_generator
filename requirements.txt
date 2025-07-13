@@ -1,0 +1,7 @@
+
+
+python-dotenv==1.0.0
+openai>=1.33.0  # Updated to match swarm's requirements
+git+https://github.com/openai/swarm.git
+tqdm>=4.0.0
+requests>=2.0.0
